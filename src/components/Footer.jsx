@@ -52,7 +52,7 @@ const Footer = () => {
             <p>Real-time Network Updates & Airdrop Transmissions.</p>
           </a>
 
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="glass-panel social-panel insta-panel">
+          <a href="https://www.instagram.com/pyaaz_memes/" target="_blank" rel="noopener noreferrer" className="glass-panel social-panel insta-panel">
             <div className="social-icon-wrapper">
               <InstaIcon className="social-icon" />
             </div>
