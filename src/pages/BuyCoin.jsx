@@ -15,7 +15,7 @@ const BuyCoin = () => {
              </p>
 
              <a 
-               href="https://pump.fun" 
+               href="https://pump.fun/coin/BeYkPTNZDSQPBYxCvFZy7CFGBLPBipwDnGLS5FHkpump" 
                target="_blank" 
                rel="noopener noreferrer" 
                className="glass-btn pump-fun-btn"
